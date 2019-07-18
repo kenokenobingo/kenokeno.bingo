@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Minipax';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./Minipax-Regular.woff2') format('woff2'),
+       url('./Minipax-Regular.woff') format('woff'),
+       url('./Minipax-Regular.eot') format('eot')
+}
+
+body {
+  font-family: 'Minipax', Times New Roman, serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 100pt;
+  font-weight: 400;
+  margin: 0;
+}
