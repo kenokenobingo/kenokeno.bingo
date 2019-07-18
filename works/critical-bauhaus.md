@@ -1,5 +1,6 @@
 ---
 layout: layout.liquid
-pageTitle: This is my Title
+date: 2018-05-01
+pageTitle: Critical Bauhaus
 ---
-This is a paragraph of text.
+![Critical Bauhaus](/img/criticalbauhaus.jpg)

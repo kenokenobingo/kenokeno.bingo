@@ -1,0 +1,16 @@
+{
+  "title": "K E N O ",
+  "url": "https://kenokeno.bingo/",
+  "description": "Media artist.",
+  "feed": {
+    "subtitle": "Media artist.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://kenokeno.bingo/feed/feed.xml",
+    "id": "https://kenokeno.bingo/"
+  },
+  "author": {
+    "name": "K E N O ",
+    "email": "win@kenokeno.bingo"
+  }
+}
