@@ -2,15 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>{{ metadata.title }}</title>    
-    <link rel="stylesheet" href="{{ '/css/main.css' | url }}">
+    <title>{{ metadata.title }}</title>
+    <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
   </head>
   <body>
     <header>
       <a href="/"><h1>{{ metadata.title }}</h1></a>
     </header>
     <main>
-      {{ content | safe }}
+      <div id="main">
+        {{ content | safe }}
+      </div>
     </main>
   </body>
 </html>

@@ -3,8 +3,8 @@
   font-weight: 400;
   font-style: normal;
   src: url('./Minipax-Regular.woff2') format('woff2'),
-       url('./Minipax-Regular.woff') format('woff'),
-       url('./Minipax-Regular.eot') format('eot')
+    url('./Minipax-Regular.woff') format('woff'),
+    url('./Minipax-Regular.eot') format('eot');
 }
 
 body {
@@ -13,12 +13,33 @@ body {
   padding: 0;
 }
 
+em {
+  font-style: normal;
+  letter-spacing: 2pt;
+}
+
+p {
+  font-size: 10pt;
+  letter-spacing: 0.2pt;
+  line-height: 1.5em;
+}
+
 a {
   text-decoration: none;
+  color: #000;
 }
 
 h1 {
   font-size: 100pt;
   font-weight: 400;
-  margin: 0;
+  margin: 0 0 0.5em 0;
+}
+
+img {
+  width: 100%;
+}
+
+#main {
+  margin-left: 10%;
+  width: 40%;
 }
