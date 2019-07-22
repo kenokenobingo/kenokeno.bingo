@@ -20,7 +20,7 @@ em {
 
 p {
   font-size: 10pt;
-  letter-spacing: 0.2pt;
+  letter-spacing: 0.4pt;
   line-height: 1.5em;
 }
 
@@ -29,17 +29,59 @@ a {
   color: #000;
 }
 
+li {
+  font-size: 10pt;
+  line-height: 1.5em;
+  list-style-type: '— ';
+}
+
+#main a {
+  text-decoration: underline;
+  text-decoration-skip-ink: auto;
+}
+
 h1 {
   font-size: 100pt;
   font-weight: 400;
   margin: 0 0 0.5em 0;
 }
 
+h2 {
+  font-size: 20pt;
+  font-weight: 400;
+  letter-spacing: 0.02pt;
+}
+
+h3 {
+  font-weight: 400;
+  letter-spacing: 0.02pt;
+}
+
 img {
   width: 100%;
+  margin: 1em 0;
 }
 
 #main {
+  float: left;
   margin-left: 10%;
-  width: 40%;
+  max-width: 40%;
+}
+
+@media (max-width: 1000px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 50pt;
+  }
+
+  #main {
+    max-width: 100%;
+    margin: 0;
+    float: none;
+    clear: both;
+    overflow: hidden;
+  }
 }
