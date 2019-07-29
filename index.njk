@@ -2,7 +2,7 @@
 layout: layout.njk
 ---
 <ul>
-  {% for work in collections.works %}
+  {% for work in collections.works | reverse %}
   <li><a href="{{ work.url }}">{{ work.data.title }}</a></li>
   {% endfor %}
 </ul>
