@@ -1,7 +1,9 @@
 ---
 title: I am a Machine
 date: 2016-07-18
+image: /img/iamamachine.gif
 ---
+
 ![Marilyn](/img/iamamachine.gif)
 
 [How to modernise Andy Warhol?](https://marilyn.kenokeno.bingo/) The postmodern Warhol is a machine, it is processing Marilyn with a computer. Thereby Marilyn gets different functions, aesthetics and charisma.

@@ -65,6 +65,17 @@ li {
   box-shadow: inset 0 0 #fff, inset 0 -3pt rgba(255, 229, 137, 0.5);
 }
 
+.coverContainer {
+  border: none;
+  margin: 1em 0 2em 0;
+  width: 50vw;
+  height: 10em;
+  line-height: 2em;
+  overflow: hidden;
+  background-size: 20%;
+  background-position: center center;
+}
+
 h1 {
   font-size: 100pt;
   font-weight: 400;
@@ -108,5 +119,9 @@ img {
     float: none;
     clear: both;
     overflow: hidden;
+  }
+
+  .coverContainer {
+    width: 100%;
   }
 }
