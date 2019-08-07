@@ -4,6 +4,6 @@ layout: layout.njk
 
 <ul>
   {% for work in collections.works | reverse %}
-  <li><a href="{{ work.url }}">{{ work.data.title }}<div class="coverContainer" style="background-image:url({{ work.data.image }})"></div></a></li>
+  <li class="indexList"><a href="{{ work.url }}">{{ work.data.title }}<div class="coverContainer" style="background-image:url({{ work.data.image }})"></div></a></li>
   {% endfor %}
 </ul>

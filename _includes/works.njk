@@ -5,4 +5,20 @@ layout: layout.njk
 <div id="workTitle">
   <h2 id="workTitle">{{ title }}</h2>
 </div>
+
 {{ content | safe }}
+
+<div id="metadata">
+  {%- if ref.supervision -%}
+  <p>{{ ref.supervision }}</p>
+  {%- endif -%}
+  {% if ref.institution -%}
+  <p>{{ ref.institution }}</p>
+  {%- endif -%}
+  {%- if ref.year -%}
+  <p>{{ ref.year }}</p>
+  {%- endif -%}
+  {%- if ref.appearances -%}
+  <p>{{ ref.appearances}}</p>
+  {%- endif -%}
+</div>

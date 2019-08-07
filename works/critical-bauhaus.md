@@ -2,6 +2,10 @@
 title: Critical Bauhaus
 date: 2019-07-18
 image: /img/criticalbauhaus_01.jpg
+ref:
+  supervision: Dipl.-Des. Sebastian Helm
+  institution: Bauhaus-Universität Weimar
+  year: 2019
 ---
 
 ![Critical Bauhaus](/img/criticalbauhaus_01.jpg)
