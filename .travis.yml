@@ -5,10 +5,7 @@ before_script:
   - npm install @11ty/eleventy -g
 script: eleventy --pathprefix="/kenokeno.bingo/"
 deploy:
-  local-dir: _site
-  provider: pages
+  provider: surge
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
-  keep-history: true
-  on:
-    branch: master
+  project: ./_site/
+  domain: attractive-plantation.surge.sh
