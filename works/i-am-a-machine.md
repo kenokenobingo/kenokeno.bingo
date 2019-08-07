@@ -3,7 +3,7 @@ title: I am a Machine
 date: 2016-07-18
 image: /img/iamamachine.gif
 ref:
-  supervision: Prof. Frieder Nake
+  supervision: Prof. Dr. Frieder Nake
   institution: Universität Bremen
   year: 2016
 ---
