@@ -22,7 +22,11 @@ body {
   padding: 0;
 }
 
-iframe,
+iframe {
+  max-width: 100%;
+  margin: 1em 0;
+}
+
 img {
   width: 100%;
   max-width: 100%;
