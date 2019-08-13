@@ -43,8 +43,8 @@ The right-wing movement shows us the manipulative use of technocratic systems by
 
 ### Sources
 
-- [Website]()
-- [Repository: Memes ⇒ Genes ⇒ Dreams]()
-- [Repository: meme Package Manager]()
-- [Repository: Memepool Front-End]()
-- [Repository: Memepool Back-End]()
+- [Website](https://memepool.network/)
+- [Repository: Memes ⇒ Genes ⇒ Dreams](https://github.com/kenokenobingo/meme-genes-dreams)
+- [Repository: meme Package Manager](https://github.com/kenokenobingo/meme)
+- [Repository: Memepool Front-End](https://github.com/kenokenobingo/memepool)
+- [Repository: Memepool Back-End](https://github.com/kenokenobingo/memewell)
