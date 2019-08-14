@@ -3,6 +3,7 @@ title: Memes ⇒ Genes ⇒ Dreams
 date: 2018-09-18
 image: /img/memesgenesdreams.gif
 ref:
+  appearances: 'Mastertagung Medienwissenschaft 2019: Utopiebekenntnisse'
   supervision: Prof. Dennis Paul, Prof. Dr. Frieder Nake
   institution: Hochschule für Künste Bremen
   year: 2018

@@ -4,6 +4,11 @@ title: CV
 
 ![K E N O ](/img/keno.jpg)
 
+- Infrastructure
+- Publishing
+- Ideologies
+- Programming
+
 _since October 2018_  
 Student in the Media Art and Design Master programme  
 [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/)

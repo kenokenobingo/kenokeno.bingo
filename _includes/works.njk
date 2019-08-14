@@ -9,6 +9,10 @@ layout: layout.njk
 {{ content | safe }}
 
 <div id="metadata">
+  {%- if ref.appearances -%}
+  <p>{{ ref.appearances}}</p>
+  <hr>
+  {%- endif -%}
   {%- if ref.supervision -%}
   <p>{{ ref.supervision }}</p>
   {%- endif -%}
@@ -17,8 +21,5 @@ layout: layout.njk
   {%- endif -%}
   {%- if ref.year -%}
   <p>{{ ref.year }}</p>
-  {%- endif -%}
-  {%- if ref.appearances -%}
-  <p>{{ ref.appearances}}</p>
   {%- endif -%}
 </div>
