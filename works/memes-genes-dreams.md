@@ -3,6 +3,9 @@ title: Memes ⇒ Genes ⇒ Dreams
 date: 2018-09-18
 image: /img/memesgenesdreams.gif
 ref:
+  website:
+    text: Memepool
+    link: https://memepool.network/
   appearances: 'Mastertagung Medienwissenschaft 2019: Utopiebekenntnisse'
   supervision: Prof. Dennis Paul, Prof. Dr. Frieder Nake
   institution: Hochschule für Künste Bremen
@@ -44,7 +47,6 @@ The right-wing movement shows us the manipulative use of technocratic systems by
 
 ### Sources
 
-- [Website](https://memepool.network/)
 - [Repository: Memes ⇒ Genes ⇒ Dreams](https://github.com/kenokenobingo/meme-genes-dreams)
 - [Repository: meme Package Manager](https://github.com/kenokenobingo/meme)
 - [Repository: Memepool Front-End](https://github.com/kenokenobingo/memepool)

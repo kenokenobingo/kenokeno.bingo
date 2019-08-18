@@ -9,6 +9,10 @@ layout: layout.njk
 {{ content | safe }}
 
 <div id="metadata">
+  {%- if ref.website -%}
+  <p><a href="{{ ref.website.link }}">{{ ref.website.text }}</a></p>
+  <hr>
+  {%- endif -%}
   {%- if ref.appearances -%}
   <p>{{ ref.appearances}}</p>
   <hr>
