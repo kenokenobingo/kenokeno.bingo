@@ -10,4 +10,4 @@ ref:
 
 ![bauhaus. sprachrohr der studierenden.](/img/bauhaus_01.jpg)
 
-Das _bauhaus_ war eine Publikation der kostufra, Kommunistische Studentenfraktion, am Bauhaus Dessau. Anhand der verschiedenen Ausgaben werden die damaligen politischen Konflikte am Bauhaus deutlich, die gerade in heutiger Zeit von großer Relevanz sind. Reproduziert wurde Ausgabe 4 vom _bauhaus_.
+_bauhaus_ was a student newspaper published by _kostufra_ (Kommunistische Studentenfraktion) at Bauhaus Dessau. The issues of _bauhaus_ show various political conflicts at Bauhaus, which are highly relevant today, as well. Issue #4 was reproduced.
