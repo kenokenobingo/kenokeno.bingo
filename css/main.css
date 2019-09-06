@@ -2,6 +2,7 @@
   font-family: 'Minipax';
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
   src: url('./Minipax-Regular.woff2') format('woff2'),
     url('./Minipax-Regular.woff') format('woff'),
     url('./Minipax-Regular.eot') format('eot');
@@ -11,6 +12,7 @@
   font-family: 'Plex Mono';
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
   src: url('./IBMPlexMono-Text.woff2') format('woff2'),
     url('./IBMPlexMono-Text.woff') format('woff'),
     url('./IBMPlexMono-Text.eot') format('eot');
