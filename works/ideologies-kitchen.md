@@ -1,7 +1,7 @@
 ---
 title: ideologies.kitchen
 date: 2019-07-22
-image: /img/ideologies_01.jpg
+image: /img/ideologies_01_small.jpg
 ref:
   supervision: Prof. Chrstine Hill, Dipl-Des. Sebastian Helm
   institution: Bauhaus-Universität Weimar

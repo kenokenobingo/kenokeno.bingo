@@ -1,7 +1,7 @@
 ---
 title: Martha Stuart
 date: 2016-08-01
-image: /img/marthastuart.gif
+image: /img/marthastuart_small.gif
 ref:
   supervision: Gast.-Prof. Laetitia Sonami
   institution: Hochschule für Künste Bremen

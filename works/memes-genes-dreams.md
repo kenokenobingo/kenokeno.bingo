@@ -1,7 +1,7 @@
 ---
 title: Memes ⇒ Genes ⇒ Dreams
 date: 2018-09-18
-image: /img/memesgenesdreams.gif
+image: /img/memesgenesdreams_small.gif
 ref:
   website:
     text: Memepool

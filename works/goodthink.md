@@ -1,7 +1,7 @@
 ---
 title: GOODTHINK
 date: 2017-01-31
-image: /img/goodthink.gif
+image: /img/goodthink_small.gif
 ref:
   supervision: Univ.Prof. Dr. Gerhard Funk, Assoz.Prof. Mag. art. PhD Joachim Smetschka
   institution: Universität für künstlerische und industrielle Gestaltung Linz
