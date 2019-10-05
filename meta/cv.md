@@ -21,6 +21,10 @@ _October 2016–January 2017_
 Erasmus student  
 [Universität für künstlerische und industrielle Gestaltung Linz](https://www.ufg.at/)
 
+_2016–2019_
+Radio DJ
+[Resonance EXTRA](http://extra.resonance.fm/)
+
 _October 2014–October 2018_  
 Student in the [Digital Media](http://digitalmedia-bremen.de/) Bachelor programme  
 [Hochschule für Künste Bremen](https://www.hfk-bremen.de/)
