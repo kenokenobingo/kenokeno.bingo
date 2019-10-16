@@ -10,8 +10,6 @@ Interests:
 - Infrastructure
 - Publishing
 - Ideologies
-- Programming
-- Comfort
 
 _since October 2018_  
 Student in the Media Art and Design Master programme  
