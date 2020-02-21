@@ -4,7 +4,8 @@ title: CV
 
 ![K E N O ](/img/keno.jpg)
 
-Member of [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/).  
+Member of [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/). Find me on <a rel="me" href="https://social.bau-ha.us/@keno">Mastodon</a>.
+
 Interests:
 
 - Infrastructure
