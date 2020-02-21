@@ -5,7 +5,9 @@ before_script:
   - npm install @11ty/eleventy -g
 script: eleventy
 deploy:
-  provider: surge
-  skip-cleanup: true
-  project: ./_site/
-  domain: attractive-plantation.surge.sh
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: deploy
