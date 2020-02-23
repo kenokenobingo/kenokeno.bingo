@@ -41,7 +41,7 @@
         <a href="/"><h1>{{ metadata.title }}</h1></a>
       </div>
       <div id="meta">
-        {% for meta in collections.meta | reverse %}
+        {% for meta in collections.meta %}
         <a href="{{ meta.url }}"><button>{{ meta.data.title }}</button></a>
         {% endfor %}
       </div>
