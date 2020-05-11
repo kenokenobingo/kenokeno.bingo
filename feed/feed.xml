@@ -4,7 +4,7 @@
 	<subtitle>Media artist.</subtitle>
 	<link href="https://kenokeno.bingo/feed/feed.xml" rel="self"/>
 	<link href="https://kenokeno.bingo/"/>
-	<updated>2019-07-22T00:00:00+00:00</updated>
+	<updated>2019-07-24T00:00:00+00:00</updated>
 	<id>https://kenokeno.bingo/</id>
 	<author>
 		<name>K E N O </name>
@@ -82,9 +82,22 @@ The cybernetic view has influenced many techno-utopias and internet utopias: Phi
 	</entry>
 	
 	<entry>
+		<title>ideologies.kitchen</title>
+		<link href="https://kenokeno.bingo/works/ideologies-kitchen/"/>
+		<updated>2019-07-22T00:00:00+00:00</updated>
+		<id>https://kenokeno.bingo/works/ideologies-kitchen/</id>
+		<content type="html">&lt;p&gt;Ideolgies are fragmenting. Those fragments are published on the internet by their followers, using platforms embedded in their ideolgies: Most of the internet’s infrastructure is based on capitalist and libertarian thinking.&lt;br&gt;
+&lt;em&gt;ideologies.kitchen&lt;/em&gt; produces merch for all of those fragmented ideologies, being in that sense agnostic. The actual goals of &lt;em&gt;ideologies.kitchen&lt;/em&gt; are obviously of capitalist and libertarian nature: selling goods and providing an archive of the ideologies collected.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://kenokeno.bingo/img/ideologies_01.jpg&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;https://kenokeno.bingo/img/ideologies_02.jpg&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;https://kenokeno.bingo/img/ideologies_03.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>bauhaus. sprachrohr der studierenden</title>
 		<link href="https://kenokeno.bingo/works/bauhaus-sprachrohr/"/>
-		<updated>2019-07-18T00:00:00+00:00</updated>
+		<updated>2019-07-23T00:00:00+00:00</updated>
 		<id>https://kenokeno.bingo/works/bauhaus-sprachrohr/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://kenokeno.bingo/img/bauhaus_01.jpg&quot; alt=&quot;bauhaus. sprachrohr der studierenden.&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;bauhaus&lt;/em&gt; was a student newspaper published by &lt;em&gt;kostufra&lt;/em&gt; (Kommunistische Studentenfraktion) at Bauhaus Dessau. The issues of &lt;em&gt;bauhaus&lt;/em&gt; show various political conflicts at Bauhaus, which are highly relevant today, as well. Issue #4 was reproduced.&lt;/p&gt;
@@ -95,26 +108,13 @@ The cybernetic view has influenced many techno-utopias and internet utopias: Phi
 	<entry>
 		<title>Critical Bauhaus</title>
 		<link href="https://kenokeno.bingo/works/critical-bauhaus/"/>
-		<updated>2019-07-18T00:00:00+00:00</updated>
+		<updated>2019-07-24T00:00:00+00:00</updated>
 		<id>https://kenokeno.bingo/works/critical-bauhaus/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://kenokeno.bingo/img/criticalbauhaus_01.jpg&quot; alt=&quot;Critical Bauhaus&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Bauhaus seems to be shiny and perfect during its 100th birthday. But is it? What does Bauhaus mean nowadays? And how &lt;em&gt;Bauhaus-y&lt;/em&gt; is the so called Bauhaus University in Weimar?&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://kenokeno.bingo/img/criticalbauhaus_02.jpg&quot; alt=&quot;Critical Bauhaus on the Door&quot;&gt;
 &lt;img src=&quot;https://kenokeno.bingo/img/criticalbauhaus_03.jpg&quot; alt=&quot;Critical Bauhaus served with Parsley&quot;&gt;
 &lt;img src=&quot;https://kenokeno.bingo/img/criticalbauhaus_04.jpg&quot; alt=&quot;Critical Bauhaus Poster for Tag der Leere on bauhaus.fm&quot;&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>ideologies.kitchen</title>
-		<link href="https://kenokeno.bingo/works/ideologies-kitchen/"/>
-		<updated>2019-07-22T00:00:00+00:00</updated>
-		<id>https://kenokeno.bingo/works/ideologies-kitchen/</id>
-		<content type="html">&lt;p&gt;Ideolgies are fragmenting. Those fragments are published on the internet by their followers, using platforms embedded in their ideolgies: Most of the internet’s infrastructure is based on capitalist and libertarian thinking.&lt;br&gt;
-&lt;em&gt;ideologies.kitchen&lt;/em&gt; produces merch for all of those fragmented ideologies, being in that sense agnostic. The actual goals of &lt;em&gt;ideologies.kitchen&lt;/em&gt; are obviously of capitalist and libertarian nature: selling goods and providing an archive of the ideologies collected.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://kenokeno.bingo/img/ideologies_01.jpg&quot; alt=&quot;&quot;&gt;
-&lt;img src=&quot;https://kenokeno.bingo/img/ideologies_02.jpg&quot; alt=&quot;&quot;&gt;
-&lt;img src=&quot;https://kenokeno.bingo/img/ideologies_03.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
 	</entry>
 </feed>
