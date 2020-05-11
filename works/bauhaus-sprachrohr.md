@@ -1,6 +1,6 @@
 ---
 title: bauhaus. sprachrohr der studierenden
-date: 2019-07-18
+date: 2019-07-23
 image: /img/bauhaus_01_small.jpg
 ref:
   supervision: Dipl.-Des. Sebastian Helm

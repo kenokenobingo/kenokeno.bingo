@@ -1,6 +1,6 @@
 ---
 title: Critical Bauhaus
-date: 2019-07-18
+date: 2019-07-24
 image: /img/criticalbauhaus_01_small.jpg
 ref:
   supervision: Dipl.-Des. Sebastian Helm
