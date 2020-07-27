@@ -6,7 +6,9 @@ Keno Westhoff
 Bertuchstraße 29  
 99423 Weimar
 
-E-Mail: [win(at)kenokeno.bingo](mailto:win@kenokeno.bingo)
+E-Mail: [win(at)kenokeno.bingo](mailto:win@kenokeno.bingo)  
+
+Font: [Minipax](http://velvetyne.fr/fonts/minipax/) by Raphaël Ronot on Velvetyne (SIL Open Font License, Version 1.1)
 
 ## Datenschutzerklärung
 
