@@ -48,7 +48,7 @@
     </header>
     <main>
       <div id="main">
-        <p><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk8BDg4OExETJhUVJk81LTVPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT//AABEIAAwACwMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AMuS2Rrcbi6KhBDRnHI6qa891/eSWp0+xaTbGGSHPX9K1uiOVnR6rp1vdTRLtMKyR7mEWFBPH+Nazw8I1OZdTGlWnKGvQ5m4hSGd40ztU4GaxZ0n/9k=" alt="Error" loading="lazy" data-src="/img/404.gif" class="lazyload" width="127" height="139"></p>
+        <p><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk8BDg4OExETJhUVJk81LTVPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT//AABEIAAwACwMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AMuS2Rrcbi6KhBDRnHI6qa891/eSWp0+xaTbGGSHPX9K1uiOVnR6rp1vdTRLtMKyR7mEWFBPH+Nazw8I1OZdTGlWnKGvQ5m4hSGd40ztU4GaxZ0n/9k=" alt="Error" data-src="/img/404.gif" class="lazyload" width="127" height="139"></p>
 <p>Where is it?</p>
 
       </div>
@@ -57,32 +57,33 @@
 
 <script>
             (function (selector, src, preferNativeLazyLoad) {
-  if (preferNativeLazyLoad && 'loading' in HTMLImageElement.prototype) {
-    var images = document.querySelectorAll(selector);
-    var numImages = images.length;
+  var images = document.querySelectorAll(selector);
+  var numImages = images.length;
 
-    if (numImages > 0) {
+  if (numImages > 0) {
+    if (preferNativeLazyLoad && 'loading' in HTMLImageElement.prototype) {
       for (var i = 0; i < numImages; i++) {
-        if ('dataset' in images[i] && 'src' in images[i].dataset) {
-          images[i].src = images[i].dataset.src;
-        }
+        var keys = ['src', 'srcset'];
 
-        if ('srcset' in images[i].dataset) {
-          images[i].srcset = images[i].dataset.srcset;
+        for (var j = 0; j < keys.length; j++) {
+          if (images[i].hasAttribute('data-' + keys[j])) {
+            var value = images[i].getAttribute('data-' + keys[j]);
+            images[i].setAttribute(keys[j], value);
+          }
         }
       }
+
+      return;
     }
 
-    return;
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = src;
+    document.body.appendChild(script);
   }
-
-  var script = document.createElement('script');
-  script.async = true;
-  script.src = src;
-  document.body.appendChild(script);
 })(
               'img',
               'https://cdn.jsdelivr.net/npm/lazysizes@5/lazysizes.min.js',
-              true
+              false
             );
           </script></body></html>
