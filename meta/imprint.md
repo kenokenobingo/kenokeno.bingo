@@ -8,7 +8,7 @@ Bertuchstraße 29
 
 E-Mail: [win(at)kenokeno.bingo](mailto:win@kenokeno.bingo)  
 
-Font: [Minipax](http://velvetyne.fr/fonts/minipax/) by Raphaël Ronot on Velvetyne (SIL Open Font License, Version 1.1)
+Font: [Minipax](http://velvetyne.fr/fonts/minipax/) by Raphaël Ronot of Velvetyne (SIL Open Font License, Version 1.1)
 
 ## Datenschutzerklärung
 
