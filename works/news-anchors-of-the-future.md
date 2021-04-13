@@ -28,5 +28,5 @@ First tests were carried out with the [few-show-vid2vid](https://github.com/NVla
 
 ![RunwayML](/img/news_02.png)
 
-* [NFT @ Hic et Nunc: News Anchors of the Future #01](https://www.hicetnunc.xyz/objkt/30392)
-* [NFT @ Hic et Nunc: News Anchors of the Future #02](https://www.hicetnunc.xyz/objkt/31411)
+* [NFT @ hic et nunc: News Anchors of the Future #01](https://www.hicetnunc.xyz/objkt/30392)
+* [NFT @ hic et nunc: News Anchors of the Future #02](https://www.hicetnunc.xyz/objkt/31411)
