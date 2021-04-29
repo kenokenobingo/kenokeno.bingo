@@ -4,7 +4,7 @@ title: CV
 
 ![K E N O ](/img/keno.jpg)
 
-Member of [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/). Find me on <a rel="me" href="https://social.bau-ha.us/@keno">Mastodon</a>.
+Member of [Freischreiber](https://freischreiber.de/), [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/) and [Trust](https://trust.support/).
 
 Interested in:
 
@@ -48,3 +48,9 @@ Jade-Gymnasium, Jaderberg
 
 _\* 15 September 1994_  
 Wilhelmshaven
+
+## Elsewhere
+
+* Instagram: [@kenokenobingo](https://instagram.com/kenokenobingo)
+* Mastodon: [@keno@social.bau-ha.us](https://social.bau-ha.us/@keno)
+* Twitter [@kenokenobingo](https://twitter.com/kenokenobingo)
