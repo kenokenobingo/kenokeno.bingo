@@ -14,6 +14,11 @@ Interested in:
 - Technology
 - Nature
 
+Elsewhere:
+- Instagram: [@kenokenobingo](https://instagram.com/kenokenobingo)
+- Mastodon: [@keno@social.bau-ha.us](https://social.bau-ha.us/@keno)
+- Twitter [@kenokenobingo](https://twitter.com/kenokenobingo)
+
 _since October 2018_  
 Student in the Media Art and Design Master programme  
 [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/)
@@ -48,9 +53,3 @@ Jade-Gymnasium, Jaderberg
 
 _\* 15 September 1994_  
 Wilhelmshaven
-
-## Elsewhere
-
-* Instagram: [@kenokenobingo](https://instagram.com/kenokenobingo)
-* Mastodon: [@keno@social.bau-ha.us](https://social.bau-ha.us/@keno)
-* Twitter [@kenokenobingo](https://twitter.com/kenokenobingo)
