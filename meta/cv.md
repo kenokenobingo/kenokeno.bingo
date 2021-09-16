@@ -16,8 +16,10 @@ Interested in:
 
 Elsewhere:
 - Instagram: [@kenokenobingo](https://instagram.com/kenokenobingo)
-- Mastodon: [@keno@social.bau-ha.us](https://social.bau-ha.us/@keno)
-- Twitter [@kenokenobingo](https://twitter.com/kenokenobingo)
+- Mastodon: [@keno@merveilles.town](https://merveilles.town/@keno)
+- Twitter: [@kenokenobingo](https://twitter.com/kenokenobingo)
+- GitHub: [@kenokenobingo](https://github.com/kenokenobingo/)
+- LinkedIn: [Keno Westhoff](https://www.linkedin.com/in/keno-westhoff-2a3505220/)
 
 _since October 2018_  
 Student in the Media Art and Design Master programme  
