@@ -14,4 +14,3 @@ Bauhaus seems to be shiny and perfect during its 100th birthday. But is it? What
 
 ![Critical Bauhaus on the Door](/img/criticalbauhaus_02.jpg)
 ![Critical Bauhaus served with Parsley](/img/criticalbauhaus_03.jpg)
-![Critical Bauhaus Poster for Tag der Leere on bauhaus.fm](/img/criticalbauhaus_04.jpg)
