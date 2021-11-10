@@ -4,7 +4,7 @@ date: 2021-09-01
 image: /img/sequenz01_small.jpg
 ref:
   institution:
-     PYUK EDP
+     PYUK EDP Redsidency
   website:
     text: PYUK EDP
     link: https://soundcloud.com/pyuk-edp
