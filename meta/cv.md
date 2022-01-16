@@ -26,7 +26,7 @@ Content Manager
 [EWS Elektrizitätswerke Schönau eG](https://www.ews-schoenau.de/)
 
 _October 2018–July 2021_  
-Student in the Media Art and Design Master programme  
+Master of Fine Arts  
 [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/)
 
 _October 2016–January 2017_  
@@ -38,7 +38,7 @@ Radio DJ: [“Postnew”](https://postnew.kenokeno.bingo/)
 [Resonance EXTRA](http://extra.resonance.fm/)
 
 _October 2014–October 2018_  
-Student in the [Digital Media](http://digitalmedia-bremen.de/) Bachelor programme  
+Bachelor of Arts [Digital Media](http://digitalmedia-bremen.de/)  
 [Hochschule für Künste Bremen](https://www.hfk-bremen.de/)
 
 _July 2014–December 2021_  
