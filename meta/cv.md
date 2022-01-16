@@ -21,8 +21,8 @@ Elsewhere:
 - GitHub: [@kenokenobingo](https://github.com/kenokenobingo/)
 - LinkedIn: [Keno Westhoff](https://www.linkedin.com/in/keno-westhoff-2a3505220/)
 
-_since January 2021_
-Content Manager
+_since January 2021_  
+Content Manager  
 [EWS Elektrizitätswerke Schönau eG](https://www.ews-schoenau.de/)
 
 _October 2018–July 2021_  
