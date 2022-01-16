@@ -21,7 +21,11 @@ Elsewhere:
 - GitHub: [@kenokenobingo](https://github.com/kenokenobingo/)
 - LinkedIn: [Keno Westhoff](https://www.linkedin.com/in/keno-westhoff-2a3505220/)
 
-_since October 2018_  
+_since January 2021_
+Content Manager
+[EWS Elektrizitätswerke Schönau eG](https://www.ews-schoenau.de/)
+
+_October 2018–July 2021_  
 Student in the Media Art and Design Master programme  
 [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/)
 
@@ -37,11 +41,11 @@ _October 2014–October 2018_
 Student in the [Digital Media](http://digitalmedia-bremen.de/) Bachelor programme  
 [Hochschule für Künste Bremen](https://www.hfk-bremen.de/)
 
-_since  July 2014_  
+_July 2014–December 2021_  
 Freelancing  
 [KOSTBAR — regional • bio • fair](https://kostbar-oldenburg.de/), Oldenburg
 
-_since  July 2014_  
+_July 2014–December 2021_  
 Freelancing  
 [mensch und umwelt, Büro für Gestaltung](https://mensch-und-umwelt.de/), Oldenburg
 
