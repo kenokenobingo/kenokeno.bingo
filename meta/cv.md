@@ -21,7 +21,11 @@ Elsewhere:
 - GitHub: [@kenokenobingo](https://github.com/kenokenobingo/)
 - LinkedIn: [Keno Westhoff](https://www.linkedin.com/in/keno-westhoff-2a3505220/)
 
-_since January 2021_  
+_since April 2022_  
+Content Creator  
+[iRights.Lab GmbH](https://irights-lab.de/)
+
+_January–March 2022_  
 Content Manager  
 [EWS Elektrizitätswerke Schönau eG](https://www.ews-schoenau.de/)
 
