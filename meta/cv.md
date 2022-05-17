@@ -4,7 +4,7 @@ title: CV
 
 ![K E N O ](/img/keno.jpg)
 
-Member of [Freischreiber](https://freischreiber.de/), [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/) and [Trust](https://trust.support/).
+Member of [transfer – Netzwerk nachhaltige Zukunft e. V.](https://transfer-ol.de/), [Freischreiber](https://freischreiber.de/), [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/) and [Trust](https://trust.support/).
 
 Interested in:
 
