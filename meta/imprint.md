@@ -3,8 +3,8 @@ title: Imprint
 ---
 
 Keno Westhoff  
-Bertuchstraße 29  
-99423 Weimar
+Lorenweg 20  
+26316 Varel
 
 E-Mail: [win(at)kenokeno.bingo](mailto:win@kenokeno.bingo)  
 
