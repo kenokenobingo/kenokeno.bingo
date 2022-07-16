@@ -1,7 +1,7 @@
 ---
 title: Componics
 date: 2021-07-19
-image: /img/componics_small.jpg
+image: /img/componics_small.png
 ref:
   supervision: Vertr.-Prof. Jason Reizner, Max Neupert
   institution: Bauhaus-Universität Weimar
