@@ -3,8 +3,8 @@ title: Imprint
 ---
 
 Keno Westhoff  
-Lorenweg 20  
-26316 Varel
+Aschaffenburger Straße 27  
+10779 Berlin
 
 E-Mail: [win(at)kenokeno.bingo](mailto:win@kenokeno.bingo)  
 
