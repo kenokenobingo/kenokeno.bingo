@@ -38,7 +38,7 @@ Erasmus student
 [Universität für künstlerische und industrielle Gestaltung Linz](https://www.ufg.at/)
 
 _2016–2019_  
-Radio DJ: [“Postnew”](https://postnew.kenokeno.bingo/)  
+Radio DJ: “Postnew”  
 [Resonance EXTRA](http://extra.resonance.fm/)
 
 _October 2014–October 2018_  
