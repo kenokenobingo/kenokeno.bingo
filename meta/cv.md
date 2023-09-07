@@ -57,9 +57,5 @@ _November 2013–June 2014_
 Internship  
 [mensch und umwelt, Büro für Gestaltung](https://mensch-und-umwelt.de/), Oldenburg
 
-_2013_  
-Abitur  
-Jade-Gymnasium, Jaderberg
-
 _\* 15 September 1994_  
 Wilhelmshaven
