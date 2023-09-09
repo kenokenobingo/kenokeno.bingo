@@ -12,4 +12,4 @@ Font: [Minipax](http://velvetyne.fr/fonts/minipax/) by Raphaël Ronot of Velvety
 
 ## Datenschutzerklärung
 
-Diese Website benutzt Plausible, eine Open-Source-Software zur statistischen Auswertung der Besucherzugriffe. Piwik verwendet sogenannte „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem Server des Anbieters in Finnland gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert.
+Diese Website benutzt Plausible, eine Open-Source-Software zur statistischen Auswertung der Besucherzugriffe. Plausible verwendet sogenannte „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem Server des Anbieters gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert.
