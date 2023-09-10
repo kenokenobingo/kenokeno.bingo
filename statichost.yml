@@ -2,6 +2,6 @@
 # Docker image to use for building
 image: node:18.16.0
 # Build command
-command: npm install && eleventy
+command: npm install && npx @11ty/eleventy 
 # Public directory
 public: _site
