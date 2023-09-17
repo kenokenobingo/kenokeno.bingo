@@ -8,11 +8,11 @@ Member of [transfer – Netzwerk nachhaltige Zukunft e. V.](https://transfer-ol.
 
 Interested in:
 
-- Infrastructure
-- Publishing
-- Ideologies
-- Technology
-- Nature
+- infrastructure
+- publishing
+- ideologies
+- technology
+- nature
 
 Elsewhere:
 - Instagram: [@kenokenobingo](https://instagram.com/kenokenobingo)
