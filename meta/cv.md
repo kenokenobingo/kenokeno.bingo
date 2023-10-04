@@ -21,7 +21,11 @@ Elsewhere:
 - GitHub: [@kenokenobingo](https://github.com/kenokenobingo/)
 - LinkedIn: [Keno Westhoff](https://www.linkedin.com/in/keno-westhoff-2a3505220/)
 
-_since April 2022_  
+_since October 2023_  
+Social Media Manager  
+[Deutscher Gewerkschaftsbund](https://en.dgb.de/)
+
+_April 2022–September 2023_  
 Content Creator  
 [iRights.Lab GmbH](https://irights-lab.de/)
 
