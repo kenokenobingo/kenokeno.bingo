@@ -8,7 +8,7 @@ Aschaffenburger Straße 27
 
 E-Mail: [win(at)kenokeno.bingo](mailto:win@kenokeno.bingo)  
 
-Font: [Minipax](http://velvetyne.fr/fonts/minipax/) by Raphaël Ronot of Velvetyne (SIL Open Font License, Version 1.1)
+Font: [Minipax](https://github.com/ronotypo/Minipax) by Raphaël Ronot of Velvetyne (SIL Open Font License, Version 1.1)
 
 ## Datenschutzerklärung
 
