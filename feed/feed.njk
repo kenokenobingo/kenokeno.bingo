@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 	<subtitle>{{ metadata.feed.subtitle }}</subtitle>
 	<link href="{{ metadata.feed.url }}" rel="self"/>
 	<link href="{{ metadata.url }}"/>
-	<updated>{{ collections.works | rssLastUpdatedDate }}</updated>
+	<updated>{{ collections.works | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
 	<id>{{ metadata.feed.id }}</id>
 	<author>
 		<name>{{ metadata.author.name }}</name>
@@ -19,7 +19,7 @@ eleventyExcludeFromCollections: true
 	<entry>
 		<title>{{ work.data.title }}</title>
 		<link href="{{ absoluteWorkUrl }}"/>
-		<updated>{{ work.date | rssDate }}</updated>
+		<updated>{{ work.date | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
 		<id>{{ absoluteWorkUrl }}</id>
 		<content type="html">{{ work.templateContent | htmlToAbsoluteUrls(absoluteWorkUrl) }}</content>
 	</entry>
