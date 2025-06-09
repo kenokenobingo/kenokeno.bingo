@@ -4,7 +4,7 @@ title: CV
 
 ![K E N O ](/img/keno.jpg)
 
-Member of [transfer – Netzwerk nachhaltige Zukunft e. V.](https://transfer-ol.de/), [Freischreiber](https://freischreiber.de/) _(on hold)_, contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/) and [Trust](https://trust.support/), former member of [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/).
+Member of [transfer – Netzwerk nachhaltige Zukunft e. V.](https://transfer-ol.de/), contributor to [HOMEBREWSERVER.CLUB](https://homebrewserver.club/) and [Trust](https://trust.support/), former member of [bauhaus.fm](https://www.uni-weimar.de/projekte/bauhaus-fm/).
 
 Interested in:
 
